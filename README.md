@@ -2,6 +2,7 @@
 
 - 2022-10-25 amended the repository to include CS220AU-DP-20022, LOGS, and TODO
 - 2022-10-25 input notes to INBOX
+- 2022-11-01 shared Log and ToDo list with Jess
 
 ## TODO
 
